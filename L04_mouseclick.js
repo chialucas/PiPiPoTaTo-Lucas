@@ -9,7 +9,6 @@ function draw(){
     fillshape(colour);
     elllipse(200,200,80,80);
     
-
 }
 
 
