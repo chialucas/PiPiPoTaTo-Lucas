@@ -21,7 +21,11 @@ function draw(){
 
 function mousePressed(){
     shapeColor = color(random(255), random(255),random(255))
-    x1= random(width)
+    x1= random(width);
+    y1= random(height);
+
+    x1= random(width);
+    y1= random(height);
 
 }
 
