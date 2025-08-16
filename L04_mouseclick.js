@@ -14,7 +14,7 @@ function setup(){
 function draw(){
     fill(shapeColor);
     if(mouseIsPressed){
-        t
+        triangle(x1,)
     }
 
 }
