@@ -21,19 +21,18 @@ function draw(){
 
 function mousePressed(){
     shapeColor = color(random(255), random(255),random(255))
-    circlesize = 20
-}
+x}
 
 function mouseReleased(){
     shapeColor = color(random(255), random(255),random(255))
 }
 
-function mouseDragged(){
-    shapeColor = color(random(255), random(255),random(255))
-    fill(shapeColor);
-    circlesize = random(10,50)
-    ellipse(mouseX,mouseY,circlesize,circlesize)
-}
+// function mouseDragged(){
+//     shapeColor = color(random(255), random(255),random(255))
+//     fill(shapeColor);
+//     circlesize = random(10,50)
+//     ellipse(mouseX,mouseY,circlesize,circlesize)
+// }
 
 
 function mouseMoved(){
