@@ -1,6 +1,11 @@
 // write your codes here
 
 let shapeColor ="blue";
+let x1
+
+
+
+
 
 function setup(){
     createCanvas(400,400)
