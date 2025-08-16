@@ -34,7 +34,7 @@ function mousePressed(){
 }
 
 function mouseReleased(){
-    shapeColor = color(220)
+    shapeColor = color(200);
 }
 
 // function mouseDragged(){
