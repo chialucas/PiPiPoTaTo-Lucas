@@ -27,8 +27,8 @@ function mousePressed(){
     x2= random(width);
     y2= random(height);
 
-    x1= random(width);
-    y1= random(height);
+    x3= random(width);
+    y3= random(height);
 
 
 }
