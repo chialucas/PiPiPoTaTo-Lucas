@@ -11,7 +11,7 @@ function draw(){
 }
 
 function mousePressed(){
-    shapecolour = colour(random(255),random(255))
+    shapecolour = colour(random(255),random(255),random(255))
 }
 
 function mouseReleased(){
