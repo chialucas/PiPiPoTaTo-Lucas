@@ -32,6 +32,6 @@ function mouseDragged(){
 
 
 function mouseMoved(){
-    shapeColor
+    circlesize +=2
 }
 
