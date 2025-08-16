@@ -1,7 +1,7 @@
 // write your codes here
 
 let shapeColor ="blue";
-let x1
+let x1,y1,x2
 
 
 
