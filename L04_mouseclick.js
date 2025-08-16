@@ -11,10 +11,13 @@ function setup(){
     background(200);
 }
     
-// function draw(){
-//     fill(shapeColor);
-//     ellipse(200,200,80,80)
-// }
+function draw(){
+    fill(shapeColor);
+    if(mouseIsPressed){
+        t
+    }
+
+}
 
 function mousePressed(){
     shapeColor = color(random(255), random(255),random(255))
