@@ -7,7 +7,7 @@ function setup(){
 
 function draw(){
     fillshape(colour);
-    
+    elllipse(200)
 
 
 }
