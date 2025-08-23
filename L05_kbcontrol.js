@@ -1,5 +1,5 @@
 // write your codes here
-let shapecolour = "blue";
+// let shapecolour = "blue";
 let circlesize = 5;
 
 function setup() {
