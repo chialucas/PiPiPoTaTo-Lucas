@@ -11,7 +11,10 @@ function MouseReleased() {
     circlesize
 }
 
-function MouseDragged()
+function MouseDragged() {
+    circlesize
+
+}
 
 function draw() {
     
