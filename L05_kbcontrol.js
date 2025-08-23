@@ -13,7 +13,7 @@ function MouseReleased() {
 
 function MouseDragged() {
     circlesize
-    ellipse
+    ellipse()
 }
 
 function draw() {
