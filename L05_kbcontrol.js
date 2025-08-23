@@ -30,5 +30,7 @@ function draw(){
 }
 function draw() {
     //circle(width/2, height/2, 100);
-    for(let i=0; i<5; i++) {}
+    for(let i=0; i<5; i++) {
+        FileList();
+    }
 }
