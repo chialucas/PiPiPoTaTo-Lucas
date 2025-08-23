@@ -6,7 +6,10 @@ function setup() {
     background(200);
 }
 
-function MouseReleased()
+function MouseReleased() {
+    
+
+}
 
 function draw() {
     
