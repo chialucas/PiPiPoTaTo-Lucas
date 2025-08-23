@@ -12,6 +12,10 @@ function MouseReleased() {
     circlesize
 }
 
+function MousePressed() {
+    
+}
+
 function MouseDragged() {
     circlesize
     nostroke()
