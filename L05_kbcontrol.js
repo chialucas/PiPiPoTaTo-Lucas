@@ -1,10 +1,10 @@
 // write your codes here
 let shapecolour = "blue";
-let circlesize = 20;
+let circlesize = 5;
 function setup() {
     createCanvas(400,400)
     background(200);
-    nostroke();
+    nostroke()
 }
 
 function MouseReleased() {
