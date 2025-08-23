@@ -1,5 +1,6 @@
 // write your codes here
-let shapecolour 
+let shapecolour = "blue";
+
 
 
 function setup() {
