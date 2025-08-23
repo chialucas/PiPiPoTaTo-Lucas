@@ -28,3 +28,6 @@ function draw(){
     circle()
     circle(300,300,300)
 }
+function draw() {
+    
+}
