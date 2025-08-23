@@ -26,5 +26,5 @@ function setup(){
 }
 function draw(){
     circle()
-    circle
+    circle(300,300,125)
 }
