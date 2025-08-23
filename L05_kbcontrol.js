@@ -7,8 +7,8 @@ function setup() {
 }
 
 function MouseReleased() {
-    
-
+    shapecolour
+circlesize
 }
 
 function draw() {
