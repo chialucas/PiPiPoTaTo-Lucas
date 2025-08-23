@@ -14,7 +14,7 @@ function MousePressed() {
 
 function MouseDragged() {
     circle(mouseX, mouseY, size)
-    nostroke()
+    nostroke();
     ellipse(mouseX,mouseY,circlesize,circlesize);
 }
 
