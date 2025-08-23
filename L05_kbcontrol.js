@@ -9,7 +9,7 @@ function setup() {
 }
 
 function MousePressed() {
-    
+    fill
 }
 
 function MouseDragged() {
@@ -19,7 +19,6 @@ function MouseDragged() {
 }
 
 function draw() {
-    
 }
 
 
