@@ -12,7 +12,7 @@ function mousePressed() {
     fill(random(255), random(255), random(255));
 }
 
-function MouseDragged() {
+function mouseDragged() {
     circle(mouseX, mouseY, size);
     ellipse(mouseX,mouseY,circlesize,circlesize);
 }
