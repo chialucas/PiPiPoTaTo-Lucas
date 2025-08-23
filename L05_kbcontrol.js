@@ -37,4 +37,8 @@
 // // }
 
 
-let rectSize = 50
+let rectSize = 50;
+
+function setup(){
+    
+}
