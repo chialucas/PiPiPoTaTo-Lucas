@@ -4,7 +4,7 @@ let circlesize = 20;
 function setup() {
     createcanvas(400,400)
     background(200);
-    nostroke()
+    nostroke();
 }
 
 function MouseReleased() {
