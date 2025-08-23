@@ -9,7 +9,7 @@ function setup() {
 }
 
 function MousePressed() {
-    fill
+    Fill(random(255))
 }
 
 function MouseDragged() {
