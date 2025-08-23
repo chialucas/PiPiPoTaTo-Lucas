@@ -8,7 +8,7 @@ function setup() {
     nostroke();
 }
 
-function MousePressed() {
+function mousePressed() {
     fill(random(255), random(255), random(255));
 }
 
