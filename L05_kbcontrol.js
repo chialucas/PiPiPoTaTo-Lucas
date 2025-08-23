@@ -7,13 +7,8 @@ function setup() {
     nostroke()
 }
 
-function MouseReleased() {
-    shapecolour
-    circlesize
-}
-
 function MousePressed() {
-    
+
 }
 
 function MouseDragged() {
