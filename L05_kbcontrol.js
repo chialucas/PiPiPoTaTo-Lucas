@@ -13,6 +13,7 @@ function MouseReleased() {
 
 function MouseDragged() {
     circlesize
+    nostroke = 
     ellipse(mouseX,mouseY,circlesize,circlesize);
 }
 
