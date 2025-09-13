@@ -13,8 +13,4 @@
 //         constrain(X,100, 300);
 // }
 
-let soundEffect, bgMusic, staticImage;
-
-function preload(){
-    soundEffect
-}
+let 
