@@ -222,7 +222,7 @@ function setup() {
 
 function draw(){
     background(220);
-    circle(2,2,2)
+    circle(x)
 }
 
 
