@@ -9,6 +9,5 @@ function draw(){
     if(KeyIsDown(UP_ARROW))
 
 
-
         constrain(X,100, 300);
 }
