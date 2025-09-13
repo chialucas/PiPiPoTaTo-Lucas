@@ -25,4 +25,8 @@ function setup(){
     background("lightblue");
     image(staticImage,0,0,100,100)
 }
-function keyPressed(){}
+function keyPressed(){
+    if (keyCode === 32){
+        soundEffect
+    }
+}
