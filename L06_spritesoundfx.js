@@ -4,6 +4,6 @@ function setup(){
 }
 function draw(){
     background(25);
-    constrain(X,100)
+    constrain(X,100, 300);
 
 }
