@@ -214,4 +214,5 @@
 //     circle(width / 2 + x, height / 2, 100);
 // }
 
+let x = 0;
 
