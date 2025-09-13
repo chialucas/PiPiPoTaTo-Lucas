@@ -222,7 +222,8 @@ function setup() {
 
 function draw(){
     background(220);
-    circle(x)
+    circle(x, height / 2, 50)
+    
 }
 
 
