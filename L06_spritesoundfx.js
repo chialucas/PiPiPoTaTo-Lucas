@@ -2,7 +2,8 @@ function setup(){
     createCanvas(400,400);
 }
 
-let x 
+let x = 200;
+let y = 200
 
 function draw(){
     background(25);
