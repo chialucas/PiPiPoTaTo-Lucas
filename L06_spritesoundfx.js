@@ -13,7 +13,4 @@
 //         constrain(X,100, 300);
 // }
 
-function setup(){
-    createCanvas(400,400)
-}
-
+let soundEffect, 
