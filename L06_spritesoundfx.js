@@ -16,5 +16,5 @@
 let staticImage;
 
 function preload() {
-    
+    staticImage = load
 }
