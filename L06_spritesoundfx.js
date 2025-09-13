@@ -3,5 +3,6 @@ function setup(){
 }
 function draw(){
     background(25);
+    if(KeyIsDown())
     constrain(X,100, 300);
 }
