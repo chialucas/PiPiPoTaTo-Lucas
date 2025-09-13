@@ -12,3 +12,7 @@
 
 //         constrain(X,100, 300);
 // }
+
+function setup(){
+    createCanvas
+}
