@@ -22,5 +22,5 @@ function preload() {
 function setup(){
     createCanvas(200,200)
     background("lightblue");
-    image(staticImage)
+    image(staticImage,0,0,100,100)
 }
