@@ -214,20 +214,25 @@
 //     circle(width / 2 + x, height / 2, 100);
 // }
 
-let x = 0;
+// let x = 0;
 
-function setup() {
-    createCanvas(400, 400)
-}
+// function setup() {
+//     createCanvas(400, 400)
+// }
 
-function draw(){
-    background(220);
-    circle(x, height / 2, 50)
-    if (keyIsDown(LEFT_ARROW))
-        x-=5;
-}
-
-
-
-
-
+// function draw(){
+//     background(220);
+//     circle(x, height / 2, 50)
+//     if (keyIsDown(LEFT_ARROW)){
+//         x-=5;
+//     }
+//     else if (keyIsDown(RIGHT_ARROW)){
+//         x+=5;
+//     }
+//     else if (keyIsDown(UP_ARROW)){
+//         y+=5;
+//     }   
+//     else if (keyIsDown(DOWN_ARROW))
+//         y-=5;
+    
+let x = 200
