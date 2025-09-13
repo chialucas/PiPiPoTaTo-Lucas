@@ -234,5 +234,3 @@
 //     }   
 //     else if (keyIsDown(DOWN_ARROW))
 //         y-=5;
-    
-let x = 200
