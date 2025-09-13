@@ -10,5 +10,4 @@ function draw(){
     constrain(X,100, 300);
 
 
-    constrain
 }
