@@ -234,3 +234,6 @@
 //     }   
 //     else if (keyIsDown(DOWN_ARROW))
 //         y-=5;
+function setup(){
+    
+}
