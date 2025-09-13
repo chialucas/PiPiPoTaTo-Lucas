@@ -13,4 +13,8 @@
 //         constrain(X,100, 300);
 // }
 
-let 
+let staticImage;
+
+function preload() {
+    
+}
