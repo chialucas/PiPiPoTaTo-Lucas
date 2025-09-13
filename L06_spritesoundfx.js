@@ -7,7 +7,8 @@ let y = 200;
 function draw(){
     background(25);
     if(KeyIsDown(UP_ARROW))
-    constrain(X,100, 300);
 
 
+
+        constrain(X,100, 300);
 }
