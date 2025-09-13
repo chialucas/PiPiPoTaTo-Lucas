@@ -8,7 +8,7 @@ function draw(){
     background(25);
     square
     if(KeyIsDown(UP_ARROW))
-        rect(40,40,)
+        rect(100,100)
 
         constrain(X,100, 300);
 }
