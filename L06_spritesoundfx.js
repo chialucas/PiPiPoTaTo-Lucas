@@ -3,5 +3,6 @@ function setup(){
     createCanvas(400,400);
 }
 function draw(){
-    fill()
+    fill(0);
+    Rect()
 }
