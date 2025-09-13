@@ -4,6 +4,6 @@ function setup(){
 }
 function draw(){
     fill(0);
-    Rect(100,100,100,500,500,100,500,500);
     
+
 }
