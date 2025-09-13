@@ -186,20 +186,6 @@
 //     }
 // }
 
-let x = 0;
-
-function setup() {
-    createCanvas(400,400);
-}
-
-function draw() {
-    background(220);
-    if (keyIsDown(RIGHT_ARROW)) {
-        x+= 1
-    }
-    circle(width /2 + x, height /2 , 100);
-}
-
 // let x = 0;
 
 // function setup() {
@@ -208,10 +194,24 @@ function draw() {
 
 // function draw() {
 //     background(220);
-//     if (keyCode == RIGHT_ARROW) {
-//         x += 1
+//     if (keyIsDown(RIGHT_ARROW)) {
+//         x+= 1
 //     }
-//     circle(width / 2 + x, height / 2, 100);
+//     circle(width /2 + x, height /2 , 100);
 // }
+
+let x = 0;
+
+function setup() {
+    createCanvas(400,400);
+}
+
+function draw() {
+    background(220);
+    if (keyCode == RIGHT_ARROW) {
+        x += 1
+    }
+    circle(width / 2 + x, height / 2, 100);
+}
 
 
