@@ -16,5 +16,5 @@
 let staticImage;
 
 function preload() {
-    staticImage = loadImage()
+    staticImage = loadImage('assets/pico')
 }
