@@ -13,4 +13,4 @@
 //         constrain(X,100, 300);
 // }
 
-let soundEffect, 
+let soundEffect, bgMusic, staticImage;
