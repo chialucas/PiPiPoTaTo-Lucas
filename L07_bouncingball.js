@@ -65,5 +65,5 @@ function draw(){
 
     noStroke();
     fill(349)
-    circle(ballX,ballY);
+    circle(ballX,ballY,ballSize);
 }
