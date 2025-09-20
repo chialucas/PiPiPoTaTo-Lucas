@@ -61,4 +61,5 @@ function draw(){
     circle(ballX,ballY,ballSize,ballSize);
     
     ballX += ballspeedX
+    ballY = ballY + ballspeedY
 }
