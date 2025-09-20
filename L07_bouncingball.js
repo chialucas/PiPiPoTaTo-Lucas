@@ -15,4 +15,5 @@ function preload(){
     
     function draw(){
         background('lightblue')
+        
     }
