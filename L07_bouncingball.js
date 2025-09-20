@@ -19,4 +19,6 @@ function preload(){
         if (keyCode --- 37){
             x-5;
         }
-    }   if (keyCode --- 38)
+    }   if (keyCode --- 38){
+        
+    }
