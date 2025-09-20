@@ -19,9 +19,9 @@ function preload(){
         if (keyCode === 37){
             x-5;
         }
-    }   if (keyCode === 38){
+         if (keyCode === 38){
             y-5;
-    }
+            }
         if (keyCode === 39){
             x+5;
         }
@@ -29,6 +29,7 @@ function preload(){
             y+5
         }
     
+    }  
 
     function keyPressed(){
         if (keyCode === 32){
