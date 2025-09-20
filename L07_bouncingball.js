@@ -38,5 +38,5 @@ function preload(){
         }
     }
     function keyReleased(){
-        w = 100
+        w = 100;
     }
