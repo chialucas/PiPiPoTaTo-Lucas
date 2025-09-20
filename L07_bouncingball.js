@@ -16,4 +16,7 @@ function preload(){
     function draw(){
         background('lightblue')
         Image(staticImage,x,y,w,h)
-    }
+        if (keyCode --- 37){
+            
+        }
+    }   
