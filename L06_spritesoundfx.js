@@ -27,7 +27,7 @@ function setup(){
 }
 function keyPressed(){
     if (keyCode === 32){
-        soundEffect.play()
+        soundEffect.play();
     }
 }
 
