@@ -46,4 +46,6 @@
 //         w = 100;
 //     }
 
-let ballX = 
+let ballX = 300;
+let ballY = 2
+let ballSize
