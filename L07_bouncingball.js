@@ -17,6 +17,6 @@ function preload(){
         background('lightblue')
         Image(staticImage,x,y,w,h)
         if (keyCode --- 37){
-            
+            x
         }
     }   
