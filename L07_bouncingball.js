@@ -37,3 +37,6 @@ function preload(){
             w = 50;
         }
     }
+    function keyReleased(){
+        
+    }
