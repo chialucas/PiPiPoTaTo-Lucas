@@ -14,17 +14,25 @@ function preload(){
     }
     
     function draw(){
-        background('lightblue')
-        Image(staticImage,x,y,w,h)
-        if (keyCode --- 37){
+        background('lightblue');
+        Image(staticImage,x,y,w,h);
+        if (keyCode === 37){
             x-5;
         }
-    }   if (keyCode --- 38){
+    }   if (keyCode === 38){
             y-5;
     }
-        if (keyCode --- 39){
+        if (keyCode === 39){
             x+5;
         }
-        if (keyCode --- 40){
+        if (keyCode === 40){
             y+5
         }
+    
+
+    function keyPressed(){
+        if (keyCode === 32){
+            // sound
+            w = 50;
+        }
+    }
