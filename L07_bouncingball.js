@@ -7,3 +7,12 @@ function preload(){
     Image(staticImage,x,y,w,h);
     backgroundSound.loop();
 }
+
+    function setup(){
+    createCanvas(600,600)
+    backgroundSound('lightblue');
+    }
+    
+    function draw(){
+        
+    }
