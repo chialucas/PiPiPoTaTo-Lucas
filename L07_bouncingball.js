@@ -1,7 +1,10 @@
 // write your codes here
 
 let staticImage,soundEffect,backgroundSound;
-let x
+let x = 50;
+let y = 50;
+let w = 100;
+let h = 100;
 function preload(){
     staticImage = loadImage('asset/pico-a.png')
     soundEffect = loadSound('asset/pico-a.png')
