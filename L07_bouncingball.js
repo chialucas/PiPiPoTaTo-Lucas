@@ -2,5 +2,5 @@
 
 let staticImage,soundEffect,backgroundSound;
 function preload(){
-    staticImage = load
+    staticImage = loadImage("")
 }
