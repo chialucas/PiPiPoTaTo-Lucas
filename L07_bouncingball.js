@@ -7,6 +7,7 @@ function preload(){
     Image(staticImage,x,y,w,h);
     backgroundSound.loop();
 }
+let x = 50
 
     function setup(){
     createCanvas(600,600)
