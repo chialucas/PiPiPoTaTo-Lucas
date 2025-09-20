@@ -2,5 +2,5 @@
 
 let staticImage,soundEffect,backgroundSound;
 function preload(){
-    staticImage = loadImage('asset')
+    staticImage = loadImage('asset/pico-a.png')
 }
