@@ -64,5 +64,5 @@ function draw(){
     ballY = ballY + ballspeedY;
 
     noStroke();
-    
+    fill()
 }
