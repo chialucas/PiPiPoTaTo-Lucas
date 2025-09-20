@@ -15,5 +15,5 @@ function preload(){
     
     function draw(){
         background('lightblue')
-        
+        Image(staticImage)
     }
