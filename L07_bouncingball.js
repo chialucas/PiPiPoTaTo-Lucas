@@ -49,4 +49,5 @@
 let ballX = 300;
 let ballY = 200;
 let ballSize = 30;
-let ballS
+let ballspeedX = 5;
+let ballspeedY = 5;
