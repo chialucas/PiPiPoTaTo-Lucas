@@ -52,3 +52,6 @@ let ballSize = 30;
 let ballspeedX = 2;
 let ballspeedY = 2;
 
+function setup(){
+    
+}
