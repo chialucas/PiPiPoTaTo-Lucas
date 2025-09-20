@@ -47,5 +47,6 @@
 //     }
 
 let ballX = 300;
-let ballY = 2
-let ballSize
+let ballY = 200;
+let ballSize = 30;
+let ballS
