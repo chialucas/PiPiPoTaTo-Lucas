@@ -53,5 +53,7 @@ let ballspeedX = 2;
 let ballspeedY = 2;
 
 function setup(){
-    createCanvas(600,400)
+    createCanvas(600,400);
 }
+
+function draw()
