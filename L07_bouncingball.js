@@ -14,5 +14,5 @@ function preload(){
     }
     
     function draw(){
-        
+        background
     }
