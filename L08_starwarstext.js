@@ -46,7 +46,7 @@ let storyText = [
 "THE BENIGNING",
 "",
 "It is a period of learning...",
-"Students have begun their journey",
+"Studensh haf bekun theirz journey",
 "into the world of p5.js.",
 "With newfound powers, they",
 "create amazing visuals and",
