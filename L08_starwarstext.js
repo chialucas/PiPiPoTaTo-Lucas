@@ -42,6 +42,6 @@ function draw() {
     textSize(24);
     textAlign(CENTER, CENTER);
     for (let i = 0; i < storyText.length; i++){
-        let sentence = storyText
+        let sentence = storyText[1];
     }
 }
