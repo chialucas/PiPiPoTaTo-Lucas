@@ -17,4 +17,6 @@
 
 
 
-let yP
+let yPos;
+
+let favouriteFoots = 
