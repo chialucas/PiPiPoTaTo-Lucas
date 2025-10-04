@@ -69,13 +69,13 @@ function draw() {
         for (let i = 0; i < storyText.length; i++){
             let sentence = storyText[i];
 
-            text(sentence, width/2,i * lineGap );
+            text(sentence, width/2,i * 20 );
         }
         pop();
         yPos -= 0.6;
 
         console.log(yPos);
-        if (yPos < -storyText.length * (lineGap+5)){
+        if (yPos < -storyText.length * 60){
             yPos = height;
         }
     }
