@@ -1,1 +1,1 @@
-let bounce = "hes bouncing off ma botie cheks "
+let bounce = "hes bouncing off ma botie cheks i lov za way he raides"
