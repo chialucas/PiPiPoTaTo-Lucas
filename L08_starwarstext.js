@@ -61,7 +61,9 @@ function draw() {
     background(0);
     textSize(24);
     textAlign(CENTER, CENTER);
-
+    push();
+    translate(width/2, yPos);
+    scale(1,3);
     for (let i = 0; i < storyText.length; i++){
         let sentence = storyText[i];
 
