@@ -52,7 +52,7 @@ let storyText = [
 "create amazing visuals and",
 "animations...",
 "",
-"May the Code be with you!"
+"May your mom be with me!"
 ];
 function setup(){
     createCanvas(600,600);
