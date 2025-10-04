@@ -69,6 +69,7 @@ function draw() {
 
         text(sentence, width/2,i * lineGap );
     }
+    pop();
     yPos -= 0.6;
 
     console.log(yPos);
