@@ -19,4 +19,4 @@
 
 let yPos;
 
-let favouriteFoots = ["waterbotel","bugger","suesheesh","Toecoes"]
+let favouriteFoots = ["waterbotel","bugger","suesheesh","Toecoes","poostasasa"]
