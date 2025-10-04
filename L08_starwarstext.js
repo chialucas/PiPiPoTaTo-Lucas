@@ -42,7 +42,7 @@ let storyText = [
 "Rong rong time agoo in a galashee faur,",
 "faur awey...",
 "",
-"EPISODE I",
+"EPISODE LXVII",
 "THE BEGINNING",
 "",
 "It is a period of learning...",
