@@ -43,7 +43,7 @@ let storyText = [
 "faur awey...",
 "",
 "EPISODE LXVII",
-"THE BEGINNING",
+"THE BENIGNING",
 "",
 "It is a period of learning...",
 "Students have begun their journey",
