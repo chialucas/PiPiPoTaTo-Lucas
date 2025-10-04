@@ -55,7 +55,8 @@ let storyText = [
 "May the Code be with you!"
 ];
 function setup(){
-    createCanvas(600,600)
+    createCanvas(600,600);
+    yPos = height;
 }
 
 function draw() {
