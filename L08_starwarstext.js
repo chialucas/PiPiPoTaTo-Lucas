@@ -40,5 +40,8 @@
 function draw() {
     background(0);
     textSize(24);
-    textAlign(CENTER, CENTER)
+    textAlign(CENTER, CENTER);
+    for (let i = 0; i < storyText.length; i++){
+        
+    }
 }
