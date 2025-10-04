@@ -19,4 +19,4 @@
 
 let yPos;
 
-let favouriteFoots = 
+let favouriteFoots = []
