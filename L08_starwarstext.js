@@ -62,6 +62,7 @@ function setup(){
 function draw() {
     background(0);
     textSize(24);
+    fill(255,255,0);
     textAlign(CENTER, CENTER);
     if(start){
         push();
