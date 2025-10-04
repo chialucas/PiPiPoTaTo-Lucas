@@ -48,5 +48,6 @@ function draw() {
     }
     yPos -= 0.6;
 
-    console.log
+    console.log(yPos);
+    if (yPos < -storyText.length * (lineGap+5))
 }
