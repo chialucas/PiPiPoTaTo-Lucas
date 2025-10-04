@@ -39,7 +39,7 @@ let yPos;
 let start = false;
 
 let storyText = [
-"Rong rong time agoo in a galaxy far,",
+"Rong rong time agoo in a galashee faur,",
 "far away...",
 "",
 "EPISODE I",
