@@ -40,5 +40,5 @@
 function draw() {
     background(0);
     textSize(24);
-    textAlign(CENTER)
+    textAlign(CENTER, CENTER)
 }
