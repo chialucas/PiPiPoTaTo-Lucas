@@ -20,4 +20,7 @@
 
 
 let favouriteFoots = ["waterbotel","bugger","suesheesh","Toecoes","poostasasa"]
-let yPos;
+let yPos = 200;
+function setup(){
+    
+}
