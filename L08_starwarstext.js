@@ -34,6 +34,9 @@
 //         text((i +1)) + "." + favouriteFoots[1],300,(80+i*30) + yPos);
 //     }
 // }
+
+
+
 let storyText = [
 "A long time ago in a galaxy far,",
 "far away...",
