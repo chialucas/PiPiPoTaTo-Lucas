@@ -40,7 +40,7 @@ let start = false;
 
 let storyText = [
 "Rong rong time agoo in a galashee faur,",
-"far away...",
+"faur awey...",
 "",
 "EPISODE I",
 "THE BEGINNING",
