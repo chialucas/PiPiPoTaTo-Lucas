@@ -69,7 +69,7 @@ function draw() {
         for (let i = 0; i < storyText.length; i++){
             let sentence = storyText[i];
 
-            text(sentence, width/2,i * 20 );
+            text(sentence, 0,i * 20 );
         }
         pop();
         yPos -= 0.6;
