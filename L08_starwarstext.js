@@ -28,5 +28,5 @@ function setup(){
     textAlign(RIGHT, CENTER);
 }
 function draw(){
-    
+    background(220)
 }
