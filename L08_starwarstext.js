@@ -23,7 +23,10 @@ let favouriteFoots = ["waterbotel","bugger","suesheesh","Toecoes","poostasasa"]
 let yPos = 200;
 function setup(){
     createCanvas(400,400);
-    background(220)
+    background(220);
     textSize(34);
     textAlign(RIGHT, CENTER);
+}
+function draw(){
+    
 }
