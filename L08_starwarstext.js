@@ -44,6 +44,6 @@ function draw() {
     for (let i = 0; i < storyText.length; i++){
         let sentence = storyText[i];
 
-        text(sentence, width/2, yPos + i * lineGap)
+        text(sentence, width/2, yPos + i * lineGap );
     }
 }
