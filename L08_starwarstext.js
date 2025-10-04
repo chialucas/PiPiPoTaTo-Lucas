@@ -88,8 +88,10 @@ function draw() {
 function mousePressed(){
     if(!start){
         loop();
+       start = true;
     }
     else{
         noLoop();
+        start = true;
     }
-}
+} 
