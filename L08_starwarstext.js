@@ -50,6 +50,6 @@ function draw() {
 
     console.log(yPos);
     if (yPos < -storyText.length * (lineGap+5)){
-        yPos 
+        yPos = innerHeight;
     }
 }
