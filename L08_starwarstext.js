@@ -22,5 +22,6 @@
 let favouriteFoots = ["waterbotel","bugger","suesheesh","Toecoes","poostasasa"]
 let yPos = 200;
 function setup(){
+    createCanvas(400,400);
     
 }
