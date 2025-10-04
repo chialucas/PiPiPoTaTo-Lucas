@@ -39,5 +39,5 @@
 
 function draw() {
     background(0);
-    Text
+    textSize(24)
 }
