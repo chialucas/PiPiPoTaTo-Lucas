@@ -35,7 +35,7 @@
 //     }
 // }
 
-yPos 
+let yPos = 200;
 
 let storyText = [
 "A long time ago in a galaxy far,",
