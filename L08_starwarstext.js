@@ -92,6 +92,6 @@ function mousePressed(){
     }
     else{
         noLoop();
-        start = true;
+        start = false;
     }
 } 
