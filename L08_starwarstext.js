@@ -49,7 +49,7 @@ let storyText = [
 "Studensh haf bekun theirz jurnee",
 "intoe za wold of p5.js.",
 "Wizh newfownd powersh, zey",
-"create amazing visuals and",
+"creat amazning vishuals and",
 "animations...",
 "",
 "I'll find your home😁"
