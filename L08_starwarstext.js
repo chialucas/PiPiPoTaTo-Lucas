@@ -17,6 +17,7 @@
 
 
 
-let yPos;
+
 
 let favouriteFoots = ["waterbotel","bugger","suesheesh","Toecoes","poostasasa"]
+let yPos;
