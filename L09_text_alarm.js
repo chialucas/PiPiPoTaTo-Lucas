@@ -28,3 +28,6 @@
 
 
 setInterval()
+
+
+function setup()
