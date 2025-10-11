@@ -7,6 +7,6 @@ function setup(){
 }
 
 
-function setthefuckup(){
+function setup(){
     createCanvas
 }
