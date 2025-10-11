@@ -30,7 +30,7 @@
 
 let countdown = 5;
 let interval;
-let interval
+let alarmsound
 
 
 
