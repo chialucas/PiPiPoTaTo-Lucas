@@ -35,8 +35,8 @@ function setup(){
 }
 
 
-function settimer(){
-    
+function setTimer(){
+    let 
 }
 
 function draw(){
