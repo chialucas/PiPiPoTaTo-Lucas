@@ -30,5 +30,5 @@
 setInterval()
 
 function setup(){
-    
+    createCanvas()
 }
