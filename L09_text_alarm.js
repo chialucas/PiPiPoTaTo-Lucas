@@ -12,7 +12,7 @@ function setup(){
     textAlign(CENTER,CENTER)
 }
 function draw(){
-
+    background(400,600)
     let h = hour();
     let m = minute();
     let s = second();
