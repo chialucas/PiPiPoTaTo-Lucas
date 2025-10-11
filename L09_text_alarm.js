@@ -38,5 +38,8 @@ function setup(){
 
 
 function draw(){
+    background(600,400)
+
+    let h = hour()
     
 }
