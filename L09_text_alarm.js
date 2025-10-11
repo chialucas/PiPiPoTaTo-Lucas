@@ -30,7 +30,6 @@
 
 let countdown = 5;
 let interval;
-let bgcolour = 220;
 let 
 
 
