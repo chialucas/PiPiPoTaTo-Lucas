@@ -77,7 +77,7 @@ function mousePressed(){
     if(!timerStarted){
         userStartAudio();
         timerStarted = true;
-        interval = setInterval(updateCountdown)
+        interval = setInterval(updateCountdown, 1000);
 
     }
 
