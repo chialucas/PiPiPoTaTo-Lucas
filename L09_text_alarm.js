@@ -14,5 +14,5 @@ function setup(){
 function daw(){
 
     let h = hour()
-    let 
+    let m = minute()
 }
