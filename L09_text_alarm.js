@@ -18,5 +18,5 @@ function daw(){
     let s = second();
 
 
-    let string
+    let String
 }
