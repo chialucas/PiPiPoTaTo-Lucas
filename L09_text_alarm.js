@@ -77,6 +77,7 @@ function mousePressed(){
     if(!timerStarted){
         userStartAudio();
         timerStarted = true;
+        interval = setIntervalv
 
     }
 
