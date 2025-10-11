@@ -31,6 +31,12 @@
 let countdown = 5;
 let interval;
 let bgcolour = 220;
+let 
+
+
+
+
+
 function setup(){
     createCanvas(600,400);
     textAlign(CENTER,CENTER);
@@ -55,7 +61,7 @@ function draw(){
 
 
 
-    
+
     text(stringTime, width/2, height/2 - 50);
 
     text(countdown, width/2 ,height/2 + 20);
