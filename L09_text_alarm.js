@@ -30,4 +30,6 @@
 setInterval()
 
 
-function setup()
+function setup(){
+    let timer
+}
