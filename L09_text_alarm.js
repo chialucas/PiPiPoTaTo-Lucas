@@ -8,5 +8,5 @@ function setup(){
 
 
 function setthefuckup(){
-    
+    createCanvas
 }
