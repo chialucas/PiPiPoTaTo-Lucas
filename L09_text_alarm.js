@@ -1,25 +1,29 @@
-// let bounce = "bouncing!";
-// let bouncex = 200;
+// // let bounce = "bouncing!";
+// // let bouncex = 200;
+
+// // function setup(){
+// //     createCanvas(600,600)
+// //     bouncex = width;
+// // }
+
 
 // function setup(){
-//     createCanvas(600,600)
-//     bouncex = width;
+//     createCanvas(600,400)
+//     textAlign(CENTER,CENTER)
+// }
+// function draw(){
+//     background(400,600)
+//     let h = hour();
+//     let m = minute();
+//     let s = second();
+
+
+//     let StringTime = nf(h,2) + ":" + nf(m,2) + ":" + nf(s,2)
+//     fill(0);
+//     textSize(46);
+//     text(StringTime, width/2 , height/2);
 // }
 
 
-function setup(){
-    createCanvas(600,400)
-    textAlign(CENTER,CENTER)
-}
-function draw(){
-    background(400,600)
-    let h = hour();
-    let m = minute();
-    let s = second();
 
 
-    let StringTime = nf(h,2) + ":" + nf(m,2) + ":" + nf(s,2)
-    fill(0);
-    textSize(46);
-    text(StringTime, width/2 , height/2);
-}
