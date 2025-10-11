@@ -13,5 +13,6 @@ function setup(){
 }
 function daw(){
 
-    let h 
+    let h = hour()
+    let 
 }
