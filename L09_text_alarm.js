@@ -39,7 +39,9 @@ function preload(){
     alarmSound = loadSound('assets/bossaNova.mp3');
 }
 
-function setup(){}
+function setup(){
+    creation
+}
 
 
 
