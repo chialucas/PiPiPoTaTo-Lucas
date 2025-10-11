@@ -9,5 +9,5 @@ function setup(){
 
 function setup(){
     createCanvas(600,400)
-    textAlign
+    textAlign(CENTER,CENTER)
 }
