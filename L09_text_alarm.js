@@ -43,7 +43,7 @@ function draw(){
     let m = minute();
     let s = second();
 
-    let stringTime = (h, 2) + ":" + Nf(m,2) + ":" + nf(s,2);
+    let stringTime = (h, 2) + ":" + nf(m,2) + ":" + nf(s,2);
     fill(0)
     textSize(46);
 
