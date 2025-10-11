@@ -30,7 +30,7 @@
 
 let countdown = 5;
 let interval;
-
+let bgcolour = 220;
 function setup(){
     createCanvas(600,400);
     textAlign(CENTER,CENTER);
