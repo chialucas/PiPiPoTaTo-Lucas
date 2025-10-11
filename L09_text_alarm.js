@@ -18,5 +18,5 @@ function daw(){
     let s = second();
 
 
-    let StringTime = nf(h,2) + ""
+    let StringTime = nf(h,2) + ":" + nf()
 }
