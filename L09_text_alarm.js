@@ -65,8 +65,3 @@ function updateCountdown(){
 }
 
 
-
-
-    let h = hour()
-    let m = minute()
-    let s = second()
