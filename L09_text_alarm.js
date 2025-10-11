@@ -33,7 +33,7 @@ let interval;
 let bgcolor;
 let alarmSound;
 function preload(){
-    alarmSound,
+    alarmSound = loadSound()
 }
 
 
