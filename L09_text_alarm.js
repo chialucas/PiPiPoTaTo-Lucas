@@ -36,7 +36,8 @@ function setup(){
 
 
 function setTimer(){
-    let timer 
+    let timer = 10
+    
 }
 
 function draw(){
