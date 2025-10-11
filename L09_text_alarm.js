@@ -11,12 +11,15 @@ function setup(){
     createCanvas(600,400)
     textAlign(CENTER,CENTER)
 }
-function daw(){
+function draw(){
 
     let h = hour();
     let m = minute();
     let s = second();
 
 
-    let StringTime = nf(h,2) + ":" + nf(m,2) + ":" + nf(s)
+    let StringTime = nf(h,2) + ":" + nf(m,2) + ":" + nf(s,2):
+    fill(0);
+    textSize(46);
+    text(StringTime, width/2 , height/2);
 }
