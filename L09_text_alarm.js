@@ -13,6 +13,7 @@ function setup(){
 }
 function daw(){
 
-    let h = hour()
-    let m = minute()
+    let h = hour();
+    let m = minute();
+    let s = second();
 }
