@@ -33,7 +33,7 @@ let interval;
 let bgcolor;
 let alarmSound;
 let lastColorChange =0;
-let 
+let lastSoundPlaying = 0;
 function preload(){
     alarmSound = loadSound('assets/bossaNova.mp3');
 }
