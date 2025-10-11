@@ -29,6 +29,8 @@
 
 setInterval()
 
+
+
 function setup(){
     createCanvas(600,400)
     textAlign(CENTER,CENTER)
@@ -37,7 +39,7 @@ function setup(){
 
 function setTimer(){
     let timer = 10
-    
+
 }
 
 function draw(){
