@@ -35,7 +35,9 @@ function setup(){
 }
 
 
-
+function settimer(){
+    
+}
 
 function draw(){
     background(600,400)
