@@ -29,7 +29,7 @@
 
 setInterval()
 
-
+let intervalid
 
 function setup(){
     createCanvas(600,400)
