@@ -41,5 +41,6 @@ function draw(){
     background(600,400)
 
     let h = hour()
-    
+    let m = minute()
+    let s = second()
 }
