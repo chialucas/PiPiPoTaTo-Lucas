@@ -74,8 +74,13 @@ function draw(){
 
 
 function mousePressed(){
-    interval = setInterval(updateCountdown, 1000);
-        
+    if(!timerStarted){
+        userStartAudio();
+        timerStart = true;
+
+    }
+
+
 
 }
 
@@ -87,7 +92,19 @@ function updateCountdown(){
         countdown-=1;
     }else{
         clearinterval(interval)
+        if(!alarmActive){
+            alarmActive = true
+            alarmSound.play();
+            lastSoundPlay = millis();
+        }
     }
 }
 
 
+function keypressed(){
+    if(keyCode == 32 && alarmActive){
+        alarmActive = false;
+        alarmSound.stop();
+        bgColor = color(220);
+    }
+}
