@@ -76,7 +76,7 @@ function draw(){
 function mousePressed(){
     if(!timerStarted){
         userStartAudio();
-        timerStart = true;
+        timerStarted = true;
 
     }
 
