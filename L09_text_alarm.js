@@ -31,7 +31,10 @@
 let countdown = 5;
 let interval;
 let bgcolor;
-let 
+let alarmSound;
+function preload(){
+    
+}
 
 
 
