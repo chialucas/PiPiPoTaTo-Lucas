@@ -33,7 +33,7 @@ let interval;
 let bgcolor;
 let alarmSound;
 function preload(){
-    alarmSound = loadSound()
+    alarmSound = loadSound('asset/bossaNova')
 }
 
 
