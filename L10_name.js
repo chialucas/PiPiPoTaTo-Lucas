@@ -1,5 +1,9 @@
 
 
+
+
+
+let countdown = 5;
 let timerStarted = false;
 
 
@@ -17,7 +21,7 @@ function draw(){
 }
 
 
-let countdown = 5;
+
 let interval;
 let bgcolor;
 
