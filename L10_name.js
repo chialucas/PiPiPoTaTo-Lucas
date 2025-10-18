@@ -43,7 +43,8 @@
 //     }
 // }
 
-let inputText
+let inputText;
+let userText = 
 
 // // six seven 6 7 6 7 mango mango MUSTARDDDD
 // //           🫴🫴
