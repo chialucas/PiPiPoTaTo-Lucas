@@ -51,6 +51,7 @@ function setup(){
 
     inputText = createInput();
     inputText.position(200, height -80);
+    
 }
 
 // // six seven 6 7 6 7 mango mango MUSTARDDDD
