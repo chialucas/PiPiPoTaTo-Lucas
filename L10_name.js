@@ -3,7 +3,7 @@ function setup(){
     background(67,67)
 }
 
-    interval 
+    interval = setInterval()
 
 
 function draw(){
