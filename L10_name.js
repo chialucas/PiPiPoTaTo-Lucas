@@ -24,7 +24,6 @@ function updateCountdown(){
         interval = setInterval(updateCountdown, 1000);
 
     }
-
 }
 
 
