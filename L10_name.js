@@ -18,7 +18,8 @@ function setup(){
 
 
 function draw(){
-    background()
+    background(bscolor)
+    text()
 }
 
 
