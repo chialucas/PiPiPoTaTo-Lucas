@@ -48,6 +48,8 @@ let userText = "Text here"
 
 function setup(){
     createCanvas(600,400)
+
+    inputText
 }
 
 // // six seven 6 7 6 7 mango mango MUSTARDDDD
