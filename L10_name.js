@@ -19,7 +19,7 @@ function setup(){
 
 function draw(){
     background(bscolor)
-    text()
+    text(countdown, width/2)
 }
 
 
