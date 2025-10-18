@@ -3,7 +3,7 @@ function setup(){
     background(67,67)
 }
 
-    interval = setInterval()
+    interval = setInterval(updateCountdown, 1000)
 
 
 function draw(){
