@@ -6,6 +6,7 @@ function setup(){
     interval = setInterval(updateCountdown, 1000)
 
 
+
 function draw(){
     
 }
@@ -16,7 +17,7 @@ let interval;
 let bgcolor;
 
 
-
+function updateCountdown(){}
 
 
 
