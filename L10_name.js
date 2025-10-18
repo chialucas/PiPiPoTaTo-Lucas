@@ -49,7 +49,7 @@ let userText = "Text here"
 function setup(){
     createCanvas(600,400)
 
-    inputText = createInpu
+    inputText = createInput();
     
 }
 
