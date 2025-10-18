@@ -10,7 +10,7 @@ function setup(){
 function draw(){
     
 }
-
+let timerStarted = false;
 
 let countdown = 5;
 let interval;
