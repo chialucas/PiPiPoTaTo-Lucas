@@ -2,6 +2,7 @@
 
 let timerStarted = false;
 
+
 function setup(){
     createCanvas(600,400)
     background(67,67)
