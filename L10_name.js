@@ -10,7 +10,7 @@ let timerStarted = false;
 function setup(){
     createCanvas(600,400)
     background(67,67)
-    textAlign
+    textAlign(CustomElementRegistry,)
 }
 
     interval = setInterval(updateCountdown, 1000)
