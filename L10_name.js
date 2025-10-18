@@ -47,7 +47,7 @@ let inputText;
 let userText = "Text here"
 
 function setup(){
-    
+    createCanvas
 }
 
 // // six seven 6 7 6 7 mango mango MUSTARDDDD
