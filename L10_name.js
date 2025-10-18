@@ -17,7 +17,15 @@ let interval;
 let bgcolor;
 
 
-function updateCountdown(){}
+function updateCountdown(){
+    if(!timerStarted){
+        userStartAudio();
+        timerStarted = true;
+        interval = setInterval(updateCountdown, 1000);
+
+    }
+
+}
 
 
 
