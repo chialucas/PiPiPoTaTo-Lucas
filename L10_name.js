@@ -49,7 +49,8 @@ let userText = "Text here"
 function setup(){
     createCanvas(600,400)
 
-    inputText
+    inputText = createInpu
+    
 }
 
 // // six seven 6 7 6 7 mango mango MUSTARDDDD
