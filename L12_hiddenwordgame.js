@@ -1,5 +1,5 @@
 let inputField;
-
+let hiddentext;
 
 function setup(){
     createCanvas(600,400);
