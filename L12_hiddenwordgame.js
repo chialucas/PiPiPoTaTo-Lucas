@@ -13,7 +13,7 @@ function setup(){
 
     submitButton = createButton("show");
     submitButton.size(150,30);
-    submitButton
+    submitButton.style("font-size", "20px")
     submitButton.position(55,60);
     submitButton.mousePressed(displayInput);
 }
