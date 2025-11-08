@@ -14,7 +14,7 @@ function setup(){
     inputField.style("font-size", "20px")
     inputField.position(55,20);
 
-    displayText = randomword[0].
+    displayText = randomword[0].toUpperCase
     text("HINT:")
 
     submitButton = createButton("show");
