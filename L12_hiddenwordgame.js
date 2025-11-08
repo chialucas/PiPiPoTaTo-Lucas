@@ -6,6 +6,9 @@ function setup(){
     textSize(24);
     textAlign(CENTER,CENTER);
 
+
+    
+
     inputField = createInput(" ");
     inputField.size(150,30);
     inputField.style("font-size", "20px")
