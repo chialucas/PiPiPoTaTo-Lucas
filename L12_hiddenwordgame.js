@@ -2,9 +2,9 @@ let inputField;
 
 
 function setup(){
-    createCanvas(600,400)
-    textSize(24)
-    textAlign(CENTER,CENTER)
+    createCanvas(600,400);
+    textSize(24);
+    textAlign(CENTER,CENTER);
 
     inputField = createInput(" ");
     inputField.position(55,20);
