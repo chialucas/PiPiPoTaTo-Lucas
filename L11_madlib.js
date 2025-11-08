@@ -10,6 +10,7 @@ let outputArea;
 let storyText = "";
 let storyTemplates;
 
+
 function setup(){
     createCanvas(600,400)
     background(220);
@@ -55,8 +56,6 @@ function displayInput(){
 
 
 
-let storyText = "";
-let storyTemplates;
 
 function setup(){
     storyTemplates = [
