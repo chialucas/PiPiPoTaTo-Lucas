@@ -11,3 +11,7 @@ function setup(){
     submitButton.position(55,60);
     submitButton.mousePressed(displayInput);
 }
+
+function displayInput(){
+    
+}
