@@ -14,8 +14,7 @@ function setup(){
     inputField.style("font-size", "20px")
     inputField.position(55,20);
 
-    text("")
-
+    text("HINT:")
 
     submitButton = createButton("show");
     submitButton.size(150,30);
