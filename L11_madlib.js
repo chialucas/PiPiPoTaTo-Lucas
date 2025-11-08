@@ -45,14 +45,14 @@ function setup(){
 
 function displayInput(){
     console.log(NounField.value());
-    console.log(NounField.value());
-    console.log(NounField.value());
-    console.log(NounField.value());
-    console.log(NounField.value());
+    console.log(VerbField.value());
+    console.log(AdjField.value());
+    console.log(AdverbField.value());
+    console.log(placeField.value());
     
-    storyTexts = template.replace("{noun}","dog")
-                     .replace("{verb}","jump")
-                     .replace("{adj}","happy")
+    storyTexts = template.replace("{noun}",NounField.value())
+                     .replace("{verb}",VerbField.value())
+                     .replace("{adj}",AdjField.value())
                      .replace("{adv}","happily")
 
     console.log(storyTexts);
