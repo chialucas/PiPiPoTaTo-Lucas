@@ -8,5 +8,5 @@ function setup(){
     inputField.position(55,20);
 
     submitButton = createButton("show");
-    
+    submitButton.position
 }
