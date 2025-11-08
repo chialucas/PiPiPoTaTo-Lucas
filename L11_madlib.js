@@ -55,6 +55,7 @@ function displayInput(){
                      .replace("{adj}","happy")
                      .replace("{adv}","happily")
 
+    console.log(storyTexts);
     // background(220)
     // const inputValue = inputField.value()
     // textSize(64);
@@ -63,8 +64,3 @@ function displayInput(){
 
 }
 
-
-
-
-
-}
