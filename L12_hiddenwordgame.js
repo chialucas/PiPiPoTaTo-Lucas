@@ -7,8 +7,8 @@ function setup(){
     textAlign(CENTER,CENTER);
 
 
-    
 
+    console.log
     inputField = createInput(" ");
     inputField.size(150,30);
     inputField.style("font-size", "20px")
