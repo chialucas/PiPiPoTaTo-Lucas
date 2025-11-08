@@ -7,7 +7,7 @@ function setup(){
     textAlign(CENTER,CENTER);
 
 
-
+    randomwords = random(words)
     console.log
     inputField = createInput(" ");
     inputField.size(150,30);
