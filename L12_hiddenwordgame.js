@@ -13,5 +13,5 @@ function setup(){
 }
 
 function displayInput(){
-    text(inputField)
+    text(inputField.value())
 }
