@@ -5,5 +5,5 @@ function setup(){
     createCanvas(600,400)
 
     inputField = createInput(" ");
-    inputField = 
+    inputField.position
 }
