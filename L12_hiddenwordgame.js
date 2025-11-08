@@ -7,7 +7,7 @@ function setup(){
     textAlign(CENTER,CENTER);
 
     inputField = createInput(" ");
-    
+    inputField.s
     inputField.position(55,20);
 
     submitButton = createButton("show");
