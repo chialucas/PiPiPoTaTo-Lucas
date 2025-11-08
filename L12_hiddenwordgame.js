@@ -9,6 +9,5 @@ function setup(){
 
     submitButton = createButton("show");
     submitButton.position(55,60)
-    submitButton.mous
-    
+    submitButton.mousePressed
 }
