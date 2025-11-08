@@ -2,5 +2,7 @@ let inputField;
 
 
 function setup(){
-    createCanvas    
+    createCanvas(600,400)
+
+    inputField
 }
