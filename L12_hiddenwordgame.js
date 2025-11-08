@@ -8,6 +8,6 @@ function setup(){
     inputField.position(55,20);
 
     submitButton = createButton("show");
-    submitButton.position(55,60)
-    submitButton.mousePressed(displayInput)
+    submitButton.position(55,60);
+    submitButton.mousePressed(displayInput);
 }
