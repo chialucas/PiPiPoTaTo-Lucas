@@ -3,7 +3,8 @@ let inputField;
 
 function setup(){
     createCanvas(600,400)
-    textSize
+    textSize(24)
+    
 
     inputField = createInput(" ");
     inputField.position(55,20);
