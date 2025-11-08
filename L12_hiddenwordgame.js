@@ -12,7 +12,8 @@ function setup(){
     inputField.position(55,20);
 
     submitButton = createButton("show");
-    submitButton.size(150,30)
+    submitButton.size(150,30);
+    submitButton
     submitButton.position(55,60);
     submitButton.mousePressed(displayInput);
 }
