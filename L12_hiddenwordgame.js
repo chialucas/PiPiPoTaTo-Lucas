@@ -6,7 +6,7 @@ function setup(){
     textSize(24);
     textAlign(CENTER,CENTER);
 
-    words = 
+    words = ["moon"]
     randomwords = random(words);
     console.log
     inputField = createInput(" ");
