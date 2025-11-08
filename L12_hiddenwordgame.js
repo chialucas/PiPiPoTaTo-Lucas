@@ -8,7 +8,7 @@ function setup(){
 
     inputField = createInput(" ");
     inputField.size(150,30);
-    inputField
+    inputField.style()
     inputField.position(55,20);
 
     submitButton = createButton("show");
