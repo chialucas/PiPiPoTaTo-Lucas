@@ -9,14 +9,19 @@ let submitButton;
 let outputArea;
 let storyText = "";
 let storyTemplates;
-
+let template;
 
 function setup(){
     createCanvas(600,400)
     background(220);
 
-    
+    storyTemplates = [
+        "the {adj} {noun} decided to {verb} {adv} at the {place}.",
+        "One day, a {adj} {noun} wanted to {verb} {adv} in {place.",
+        "Did you hear about the {adj} {noun} that tried to {verb} {adv} near {place}"
 
+    ];
+    template = random(storyTemplates);
     NounField = createInput("Noun ");
     NounField.position(55, 20);
 
@@ -44,6 +49,11 @@ function displayInput(){
     console.log(NounField.value());
     console.log(NounField.value());
     console.log(NounField.value());
+    
+    storyTexts = template.replace("{noun}","dog")
+                     .replace("{verb}","jump")
+                     .replace("{adj}","happy")
+                     .replace("{adv}","happily")
 
     // background(220)
     // const inputValue = inputField.value()
@@ -57,21 +67,4 @@ function displayInput(){
 
 
 
-function setup(){
-    storyTemplates = [
-        "the {adj} {noun} decided to {verb} {adv} at the {place}.",
-        "One day, a {adj} {noun} wanted to {verb} {adv} in {place.",
-        "Did you hear about the {adj} {noun} that tried to {verb} {adv} near {place}"
-
-    ];
-
-let template = random(storyTemplates);
-
-
-storyTexts = template.replace("{noun}","dog")
-                     .replace("{verb}","jump")
-                     .replace("{adj}","happy")
-                     .replace("{adv}","happily")
-
-console.log(storyTexts)
 }
